@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5495b5d6-8726-42c6-938b-f83f7b761b37" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="185" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="index" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y2UpCmO1ArFiOA3Ouz0CLJtaiN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="coverage" />
+  </component>
+  <component name="RunManager" selected="JUnit.SolutionTest">
+    <configuration name="SolutionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="code-coverage" />
+      <useClassPathOnly />
+      <extension name="coverage" track_test_folders="true" runner="jacoco">
+        <pattern>
+          <option name="PATTERN" value="com.javacodetest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="javacodetest.Solution" />
+          <option name="ENABLED" value="true" />
+          <option name="INCLUDE" value="false" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.javacodetest" />
+      <option name="MAIN_CLASS_NAME" value="com.javacodetest.SolutionTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest.testSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="code-coverage" />
+      <useClassPathOnly />
+      <extension name="coverage" track_test_folders="true" runner="jacoco">
+        <pattern>
+          <option name="PATTERN" value="com.javacodetest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.javacodetest" />
+      <option name="MAIN_CLASS_NAME" value="com.javacodetest.SolutionTest" />
+      <option name="METHOD_NAME" value="testSort" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SolutionTest" />
+      <item itemvalue="JUnit.SolutionTest.testSort" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SolutionTest" />
+        <item itemvalue="JUnit.SolutionTest.testSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5495b5d6-8726-42c6-938b-f83f7b761b37" name="Default Changelist" comment="" />
+      <created>1582140363551</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582140363551</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="226" y="27" width="904" height="739" key="#SolutionTest" timestamp="1582147206015">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="226" y="27" width="904" height="739" key="#SolutionTest.testSort" timestamp="1582142412643">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="226" y="27" width="904" height="739" key="#SolutionTest.testSort/0.27.1366.741@0.27.1366.741" timestamp="1582142412643" />
+    <state x="226" y="27" width="904" height="739" key="#SolutionTest/0.27.1366.741@0.27.1366.741" timestamp="1582147206015" />
+    <state x="141" y="53" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582147275863">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="141" y="53" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1582147275863" />
+    <state x="410" y="172" width="525" height="447" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582141681725">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="410" y="172" width="525" height="447" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1366.741@0.27.1366.741" timestamp="1582141681725" />
+    <state x="466" y="153" width="424" height="487" key="FileChooserDialogImpl" timestamp="1582143875879">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="153" width="424" height="487" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1582143875879" />
+    <state width="1302" height="195" key="GridCell.Tab.0.bottom" timestamp="1582147209805">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1302" height="195" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1582147209805" />
+    <state width="1302" height="195" key="GridCell.Tab.0.center" timestamp="1582147209803">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1302" height="195" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1582147209803" />
+    <state width="1302" height="195" key="GridCell.Tab.0.left" timestamp="1582147209802">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1302" height="195" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1582147209802" />
+    <state width="1302" height="195" key="GridCell.Tab.0.right" timestamp="1582147209803">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1302" height="195" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1582147209803" />
+    <state x="166" y="27" width="1024" height="739" key="SettingsEditor" timestamp="1582142538425">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="166" y="27" width="1024" height="739" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1582142538425" />
+    <state x="347" y="222" key="com.intellij.ide.util.TipDialog" timestamp="1582140383725">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="347" y="222" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1582140383725" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/code_coverage$SolutionTest_testSort.ic" NAME="SolutionTest.testSort Coverage Results" MODIFIED="1582147035711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.javacodetest.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/code_coverage$SolutionTest.ic" NAME="SolutionTest Coverage Results" MODIFIED="1582147139567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.javacodetest.*</FILTER>
+      <EXCLUDED_FILTER>javacodetest.Solution</EXCLUDED_FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/code_coverage$SolutionTest.exec" NAME="SolutionTest Coverage Results" MODIFIED="1582147209706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="jacoco" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.javacodetest.*</FILTER>
+      <EXCLUDED_FILTER>javacodetest.Solution</EXCLUDED_FILTER>
+    </SUITE>
+  </component>
+</project>
